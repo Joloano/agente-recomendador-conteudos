@@ -1,0 +1,62 @@
+[
+  {
+    "content_id": "c001",
+    "title": "Introdução ao Machine Learning com Python",
+    "description": "Aprenda os conceitos fundamentais de Machine Learning usando Python, scikit-learn e pandas.",
+    "content_type": "course",
+    "tags": ["machine learning", "python", "data science", "scikit-learn"],
+    "url": "https://example.com/ml-python",
+    "author": "Ana Silva",
+    "rating": 4.8
+  },
+  {
+    "content_id": "c002",
+    "title": "Clean Code: Escrevendo Código Limpo",
+    "description": "Princípios e práticas para escrever código legível, manutenível e eficiente.",
+    "content_type": "book",
+    "tags": ["programação", "boas práticas", "clean code", "software engineering"],
+    "url": "https://example.com/clean-code",
+    "author": "Robert C. Martin",
+    "rating": 4.9
+  },
+  {
+    "content_id": "c003",
+    "title": "Docker para Desenvolvedores",
+    "description": "Tutorial completo sobre containerização com Docker e Docker Compose.",
+    "content_type": "video",
+    "tags": ["docker", "devops", "containers", "infraestrutura"],
+    "url": "https://example.com/docker-dev",
+    "author": "Carlos Mendes",
+    "rating": 4.6
+  },
+  {
+    "content_id": "c004",
+    "title": "APIs REST com FastAPI",
+    "description": "Construa APIs modernas e de alta performance com Python e FastAPI.",
+    "content_type": "article",
+    "tags": ["python", "fastapi", "api", "web development", "backend"],
+    "url": "https://example.com/fastapi-tutorial",
+    "author": "Maria Oliveira",
+    "rating": 4.7
+  },
+  {
+    "content_id": "c005",
+    "title": "Podcast: O Futuro da Inteligência Artificial",
+    "description": "Discussão sobre tendências e impactos da IA no mercado de trabalho e na sociedade.",
+    "content_type": "podcast",
+    "tags": ["inteligência artificial", "ia", "futuro", "tecnologia"],
+    "url": "https://example.com/ai-podcast",
+    "author": "TechTalks BR",
+    "rating": 4.5
+  },
+  {
+    "content_id": "c006",
+    "title": "Estruturas de Dados e Algoritmos em Python",
+    "description": "Guia completo sobre as principais estruturas de dados e algoritmos essenciais.",
+    "content_type": "course",
+    "tags": ["python", "algoritmos", "estruturas de dados", "computer science"],
+    "url": "https://example.com/dsa-python",
+    "author": "João Ferreira",
+    "rating": 4.7
+  }
+]
